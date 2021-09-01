@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **NodeJS and Sever-side technology**
 - 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for with **Fresher**
+- 🤔 I’m looking for **Fresher** position
 - 💬 Ask me about Anything [here](https://facebook.com/2dtrung)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
@@ -98,22 +98,6 @@
 <br/>
 
 
-
-
-### 📅 Isometric commit calendar
-
-The *isocalendar* plugin displays an isometric view of your commits calendar, along with a few additional stats like current streak and commit average per day.
-
-<table>
-  <td align="center">
-    <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.svg">
-    <details><summary>Full year version</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.fullyear.svg">
-    </details>
-    <img width="900" height="1" alt="">
-    
-  </td>
-</table>
 
 
 ------
