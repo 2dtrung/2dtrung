@@ -16,7 +16,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Development** especially **Front-End Developer**
 - 🌱 I’m currently learning **NodeJS and Sever-side technology**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for **Fresher** position
@@ -84,7 +84,7 @@
 ### ⚙️ &nbsp; GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/smir45">
+<a href="https://github.com/2dtrung">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=2dtrung&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=2dtrung&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
