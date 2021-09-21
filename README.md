@@ -17,9 +17,8 @@
 </a>
 
 - 🔭 I’m currently working on **Web Development** especially **Front-End Developer**
-- 🌱 I’m currently learning **NodeJS and Sever-side technology**
+- 🌱 I’m currently learning **TypeScript, NodeJS and Sever-side technology**
 - 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for **Fresher** position
 - 💬 Ask me about Anything [here](https://facebook.com/2dtrung)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
@@ -102,4 +101,4 @@
 ------
 Credits: [2dtrung](https://github.com/2dtrung)
 
-Last edited on: 16/09/2021
+Last edited on: 21/09/2021
