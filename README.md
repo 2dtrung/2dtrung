@@ -16,9 +16,9 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
+- 👯 I’m currently working on **iLotusLand** with **Fresher Front-End Developer**
 - 🔭 I’m currently working on **Web Development** especially **Front-End Developer**
-- 🌱 I’m currently learning **TypeScript, NodeJS and Sever-side technology**
-- 👯 I’m looking to collaborate on **Web Development**
+- 🌱 I’m currently learning **TypeScript, NextJS and Sever-side technology**
 - 💬 Ask me about Anything [here](https://facebook.com/2dtrung)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
@@ -101,4 +101,4 @@
 ------
 Credits: [2dtrung](https://github.com/2dtrung)
 
-Last edited on: 21/09/2021
+Last edited on: 23/09/2021
