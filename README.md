@@ -13,14 +13,13 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="/assets/programmer.gif">
 </a>
 
-- 👯 I’m currently working on **iLotusLand** with **Fresher Front-End Developer** position
-- 🔭 I’m currently working on **Web Development** especially **Front-End Developer**
-- 🌱 I’m currently learning **TypeScript, NextJS and Sever-side technology**
+- 👯 I’m currently working on **Designveloper** with **Front-End Developer** position
+- 🌱 Enjoy to do programming and sharing new knowledge
 - 💬 Ask me about Anything [here](https://facebook.com/2dtrung)! I am happy to help.
-- 😄 Pronouns : **He/Him/His**
+- 😄 Reach me any time: **sductrung@gmail.com**
 
 
 <br/>
@@ -47,19 +46,21 @@
 
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code>
-<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 #
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+#
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 <br/>
 
@@ -68,7 +69,13 @@
 
 <p align="center">
   <a href="https://github.com/2dtrung">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=2dtrung"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=2dtrung&theme=radical&border=7F3FBF&background=0D1117"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/2dtrung">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2dtrung&theme=radical" alt="Trung.Do Duc's GitHub Contribution"/>
   </a>
 </p>
 
@@ -83,8 +90,8 @@
 
 <p align="center">
 <a href="https://github.com/2dtrung">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=2dtrung&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=2dtrung&layout=compact&exclude_lang=java+r&theme=vue-light" />
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=2dtrung&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=2dtrung&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
 </a>
 </p>
 
@@ -101,4 +108,4 @@
 ------
 Credits: [2dtrung](https://github.com/2dtrung)
 
-Last edited on: 23/09/2021
+Last edited on: 02/09/2023
